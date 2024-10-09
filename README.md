@@ -1,4 +1,4 @@
-## 30 Days of Pandas
+# 30 Days of Pandas
 
 Welcome to my repository for the **30 Days of Pandas** challenge on LeetCode! 
 
@@ -12,11 +12,12 @@ This project contains my solutions to the various problems posed during the chal
 - Premium Member Solutions
 
 
- ## Technologies Used
+ ### Technologies Used
 
 - Python 3.x
 - Pandas
 - Jupyter Notebook (for code exploration)
 - LeetCode
 
-Happy Coding!
+
+###Happy Coding!
